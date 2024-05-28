@@ -46,7 +46,7 @@ education:
     institution: Worcester Polytechnic Institute
     date_start: 2021-08-27
     date_end: 2025-05-04
-    summary: |
+    summary: Expected May 2025|
       
       Courses include:
       - Fluid Mechanics
